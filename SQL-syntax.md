@@ -164,3 +164,22 @@ Example:
     // ORDER by Multiple columns
     SELECT * FROM Customers
     ORDER BY Country ASC, CustomerName DESC;
+
+
+
+# SQL Constraints:
+SQL constraints are used to specify rules for the data in a table.
+If there is any violation between the constraint and the data action, the action is aborted by the constraint.
+Constraints can be specified when the table is created (inside the CREATE TABLE statement) or after the table is created (inside the ALTER TABLE statement).
+
+Syntax:
+    
+    CREATE TABLE table_name
+    (
+     column_name1 data_type(size) constraint_name,
+     column_name2 data_type(size) constraint_name,
+     column_name3 data_type(size) constraint_name,
+    );
+    
+
+    
