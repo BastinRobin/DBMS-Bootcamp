@@ -52,7 +52,7 @@ Be careful when updating records. If we had omitted the WHERE clause, in the exa
 # SQL DELETE Syntax
 The DELETE statement is used to delete rows in a table.
 
-Syntax:
+Syntax:nin
 
 
     DELETE FROM table_name
