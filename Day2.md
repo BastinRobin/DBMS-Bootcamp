@@ -1,3 +1,27 @@
+# PL/SQL
+PL/SQL is a combination of SQL along with the procedural features of programming languages. It was developed by Oracle Corporation in the early 90's to enhance the capabilities of SQL.
+
+PL/SQL is one of three key programming languages embedded in the Oracle Database, along with SQL itself and Java.
+
+# Features of PL/SQL
+* PL/SQL has the following features:
+
+* PL/SQL is tightly integrated with SQL.
+
+* It offers extensive error checking.
+
+* It offers numerous data types.
+
+* It offers a variety of programming structures.
+
+* It supports structured programming through functions and procedures.
+
+* It supports object-oriented programming.
+
+* It supports developing web applications and server pages.
+
+
+
 # Transaction
 A transaction is the propagation of one or more changes to the database. For example, if you are creating a record or updating a record or deleting a record from the table, then you are performing transaction on the table. It is important to control transactions to ensure data integrity and to handle database errors.
 
